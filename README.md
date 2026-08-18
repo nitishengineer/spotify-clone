@@ -3,6 +3,7 @@
 A fully responsive **Spotify clone** built with React and Tailwind CSS. Browse albums, play songs, control playback with a custom music player, and enjoy album pages with color-matched gradient backgrounds.
 
 🔗 **Live Demo:** [spotify-clone-flax-rho.vercel.app](https://spotify-clone-flax-rho.vercel.app)
+![Spotify Clone screenshot](./Screenshot.png.png)
 
 ## ✨ Features
 
